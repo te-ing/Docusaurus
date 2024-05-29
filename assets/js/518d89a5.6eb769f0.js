@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteing=self.webpackChunkteing||[]).push([[8346],{2271:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/te-ing-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
